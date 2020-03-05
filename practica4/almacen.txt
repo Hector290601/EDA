@@ -1,0 +1,8 @@
+1 10 10.50 artUno esteEsElArticuloUno
+2 11 11.50 artDos esteEsElArticuloDos
+3 12 12.50 artTre esteEsElArticuloTres
+4 13 13.50 artCua esteEsElArticuloCuatro
+5 14 14.50 artCin esteEsElArticuloCinco
+6 15 15.50 artSei esteEsElArticuloSeis
+7 16 16.50 artSie esteEsElArticuloSiete
+8 17 17.50 artOch esteEsElArticuloOcho
