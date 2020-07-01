@@ -1,0 +1,5 @@
+11) implementar algoritmo iterativo, mencionar que estrategia utiliza y graficarlo
+12) igual que la 11, pero recursivo
+Proyecto: El mismo algoritmo del primer examen, llegar a esa complejidad y graficarlo
+Segundo examen: del algoritmo del primer examen parcial, comprobar su complejidad gráfica
+ENTREGAR ANTES DEL PRÓXIMO VIERNES
