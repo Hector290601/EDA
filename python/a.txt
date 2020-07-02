@@ -1,0 +1,12 @@
+1:2, crear una variable y asignar un valor
+2:6, 6 por el ciclo mientras y 2 por que es un acceso a memoria y  una comparación
+3:2*5, una llamada a función y un acceso a memoria
+4:3*5, un acceso a memoria, una suma y una asignación
+5:2, una llamada a función y un acceso a memoria
+
+#######################################
+1:2, crear una varibale y asignar un valor
+2:2 * (n - 5), ciclo mientras, comparación y el acceso a memoria
+3: 3 * (n - 6), ciclo mientras, 
+4:3 * (n - 6)
+5:2
